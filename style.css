@@ -1,0 +1,31 @@
+body
+{
+    text-align: center;
+    background-size: cover;
+}
+
+
+#heading
+{
+    width: 100%;
+    font-size: 40px;
+    margin: 0;
+}
+
+img
+{
+    width: 350px;
+    height: 350px;
+}
+
+.text
+{
+    background-color: white;
+    margin-right: 450px;
+    margin-left: 450px;
+}
+
+#myModal
+{
+    font-size: 15px;
+}
